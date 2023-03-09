@@ -1,0 +1,1 @@
+O intuito desse projeto nao é fazer uma propaganda, e sim apenas praticar HTML e CSS o qual foi utilizado nesse projeto das aulas do curso "praticando HTML e CSS"
